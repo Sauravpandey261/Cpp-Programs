@@ -3,7 +3,7 @@ using namespace std;
 class sumation{
 	private:int sum=0,i ;
 	public:
-		getdata(){
+		void getdata(){
 			for(i=1;i<=100;i++){
 				if(i%2!=0){
 					sum=sum+i;
