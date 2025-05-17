@@ -6,7 +6,7 @@ class coding{
 		coding(int x,int y){         
 			a=x;
 			b=y;
-			cout<<"Value of a and b is "<<a<<b;
+			cout<<"Value of a and b is: "<<a<<b;
 		}
 };
 int main(){
