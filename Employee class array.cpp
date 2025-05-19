@@ -9,7 +9,7 @@ class Employee{
 		getdata(){
 			cout<<"enter the name: ";
 			cin>>name;
-			cout<<"enter the age: ";
+			cout<<"enter your age: ";
 			cin>>age;
 		}
 		putdata(){
