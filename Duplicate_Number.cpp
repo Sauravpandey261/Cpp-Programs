@@ -10,6 +10,6 @@ int main(){
 	for(i=1;i<size;i++){
 		ans=ans^i;
 	}
-	cout<<"Duplicate value is :"<<ans<<endl;
+	cout<<"Duplicate value :"<<ans<<endl;
 }
 
