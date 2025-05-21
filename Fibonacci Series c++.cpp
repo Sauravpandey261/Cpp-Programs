@@ -14,7 +14,7 @@ void fib(int n){
 }
 int main(){
 	int n;
-	cout<<"Enter the no of terms ";
+	cout<<"Enter the no of terms :";
 	cin>>n;
 	fib(n);
 	return 0;
