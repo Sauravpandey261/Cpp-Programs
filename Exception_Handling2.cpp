@@ -3,9 +3,9 @@
 using namespace std;
 int main(){
 	int n,d,result;
-	cout<<"enter the numenator: ";
+	cout<<"Enter the numenator: ";
 	cin>>n;
-	cout<<"enter the demominator: ";
+	cout<<"Enter the demominator: ";
 	cin>>d;
 	try{
 		if(d==0){
