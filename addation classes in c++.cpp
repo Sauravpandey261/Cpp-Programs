@@ -17,7 +17,7 @@ int main(){
 	sumation obj[5];
 	sumation s;
 	int n,i;
-	cout<<"enter the total number :";
+	cout<<"enter the total no. :";
 	cin>>n;
 	for(i=0;i<n;i++){
 		obj[i].getdata();
