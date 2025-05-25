@@ -5,7 +5,7 @@ class A{
 		int x;
 		public:
 			void geta(){
-				cout<<"enter the no. ";
+				cout<<"enter the number: ";
 				cin>>x;
 			}
 };
@@ -14,7 +14,7 @@ class B{
 		int y;
 		public:
 			void getb(){
-				cout<<"enter the no. ";
+				cout<<"enter the number:  ";
 				cin>>y;
 			}
 	
