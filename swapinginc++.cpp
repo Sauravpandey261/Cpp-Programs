@@ -8,9 +8,9 @@ int z=*a;
 }
 int main(){
 	int a,b,c;
-	cout<<"enter the number 1:";
+	cout<<"enter the no. 1:";
 	cin>>a;
-	cout<<"enter the number 2:";
+	cout<<"enter the no. 2:";
 	cin>>b;
 	swap(&a,&b);
 	cout<<"after swaping values"<<a<<" "<<b<<endl;
