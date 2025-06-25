@@ -26,8 +26,8 @@ bool isAnagram(string str1, string str2){
 
 int main()
 {
-    string str1="anagram";
-    string str2="carrom";
+    string str1="ram";
+    string str2="arm";
     isAnagram(str1,str2);
 
     return 0;
